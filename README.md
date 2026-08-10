@@ -23,7 +23,7 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 ### ▲ OPEN TO
 
 **Agentic AI / LLM Engineering** &nbsp;·&nbsp; **SDET / Test Automation** &nbsp;·&nbsp; **Automotive Test &amp; Verification**
-&nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Forward Deployed Engineering &nbsp;·&nbsp;
+&nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Forward Deployed Engineering &nbsp;
 
 <br>
 
