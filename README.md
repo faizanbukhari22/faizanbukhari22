@@ -32,6 +32,17 @@ Berlin School of Business and Innovation, expected October 2026.
 
 <br>
 
+## ▲ CAREER TIMELINE
+
+| | Focus | Organization | Years |
+|---|---|---|---|
+| ● | Public Sector QA | Capital Development Authority (CDA) | 2020 &ndash; 2021 |
+| ▲ | Industry 4.0 / MES | SYSTEMA GmbH | 2022 &ndash; 2023 |
+| ⬣ | Automotive / SDV | MBition x Mercedes-Benz | 2024 &ndash; 2026 |
+| ⚡ | Agentic AI + Beyond | Next: FDE &middot; Product &middot; BizDev | 2026 &rarr; |
+
+<br>
+
 ## ⬣ SIGNAL — CORE STACK
 
 <!-- SKILLS:START -->
@@ -87,6 +98,16 @@ Berlin School of Business and Innovation, expected October 2026.
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-1C1C1E?style=for-the-badge&logoColor=0A84FF)
 ![MSSQL](https://img.shields.io/badge/MSSQL-1C1C1E?style=for-the-badge&logoColor=0A84FF)
 <!-- SKILLS:END -->
+
+<br>
+
+## ⚡ FOCUS OVER TIME
+
+<div align="center">
+
+<img src="./focus-growth.svg" width="100%" alt="Focus over time: Test and Automotive engineering versus Agentic AI and LLM engineering, AI trending highest" />
+
+</div>
 
 <br>
 
