@@ -164,29 +164,29 @@ Berlin School of Business and Innovation, expected October 2026.
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,092 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| 2 | [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,947 | - |  |
+| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,156 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| 2 | [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 2,049 | - |  |
 | 3 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,606 | - | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi… |
-| 4 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 799 | Python | let your agent control your phone |
-| 5 | [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 794 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus - by enso.bot |
-| 6 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | 702 | JavaScript | claude-red is a curated library of offensive security skills designed for the C… |
-| 7 | [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | 653 | C | Racing to the bottom of CPU performance |
-| 8 | [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) | 595 | Python | [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autor… |
-| 9 | [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 560 | Python | Create smooth, responsive interactive web animations. |
-| 10 | [MengTo/kage](https://github.com/MengTo/kage) | 555 | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendere… |
+| 4 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 1,028 | Python | let your agent control your phone |
+| 5 | [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 801 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus - by enso.bot |
+| 6 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | 717 | JavaScript | claude-red is a curated library of offensive security skills designed for the C… |
+| 7 | [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | 679 | C | Racing to the bottom of CPU performance |
+| 8 | [MengTo/kage](https://github.com/MengTo/kage) | 674 | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendere… |
+| 9 | [jd-opensource/JoyAI-Video-Edit](https://github.com/jd-opensource/JoyAI-Video-Edit) | 653 | Python | [Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autor… |
+| 10 | [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 644 | Python | Create smooth, responsive interactive web animations. |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** (10,339★) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready…
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (4,317★) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe ca…
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** (2,620★) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct…
-- **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** (2,456★) — A persistent workspace for development work that self-improves and continues beyond one session.
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (2,195★) — Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** (2,027★) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime…
-- **[makecindy/cindy](https://github.com/makecindy/cindy)** (1,942★) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-- **[QoderAI/better-harness](https://github.com/QoderAI/better-harness)** (1,775★) — Better Harness turns project and session evidence into loop-level insights, prioritized improvement…
+- **[img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)** (10,393★) — Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready…
+- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (4,389★) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe ca…
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** (2,690★) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct…
+- **[kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew)** (2,496★) — A persistent workspace for development work that self-improves and continues beyond one session.
+- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (2,207★) — Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** (2,044★) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime…
+- **[makecindy/cindy](https://github.com/makecindy/cindy)** (1,952★) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+- **[QoderAI/better-harness](https://github.com/QoderAI/better-harness)** (1,785★) — Better Harness turns project and session evidence into loop-level insights, prioritized improvement…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
