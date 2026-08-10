@@ -18,17 +18,12 @@
 
 <br>
 
-AI and software engineer building agentic systems (LangChain, LangGraph, MCP, RAG,
-Anthropic Claude API, Google Gemini API) on a foundation of automotive test
-automation (HiL, Vector CANoe, ISO 26262, ASPICE) built at Mercedes-Benz and in
-industrial MES environments. Finishing an M.Sc. in Engineering Management at the
-Berlin School of Business and Innovation, expected October 2026.
+AI powered software engineer building agentic systems (LangChain, LangGraph, MCP, RAG, Claude API, Gemini API and more) on a foundation of automotive test automation (HiL, Vector CANoe, ISO 26262, ASPICE) built at Mercedes-Benz and in industrial MES environments. Currently writing a thesis on the impact of AI tool integration on resource allocation effectiveness and project performance within complex German automotive engineering projects.
 
 ### ▲ OPEN TO
 
 **Agentic AI / LLM Engineering** &nbsp;·&nbsp; **SDET / Test Automation** &nbsp;·&nbsp; **Automotive Test &amp; Verification**
-&nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Forward Deployed Engineering &nbsp;·&nbsp; Technical Business Development
-&nbsp;·&nbsp; Founders Associate &nbsp;·&nbsp; Technical Product / Program Management
+&nbsp;·&nbsp; AI Engineering &nbsp;·&nbsp; Forward Deployed Engineering &nbsp;·&nbsp;
 
 <br>
 
@@ -192,30 +187,6 @@ Berlin School of Business and Innovation, expected October 2026.
 <!-- UPDATED:START -->
 _Last refreshed 2026-08-10 (UTC) · automated weekly_
 <!-- UPDATED:END -->
-
-<br>
-
-## ▲ LANGUAGES
-
-```text
-ENG  ██████████  C1 · Full Professional
-DEU  ███░░░░░░░  A2 · targeting B2
-URD  ██████████  Native
-PUN  ██████████  Native
-```
-
-<br>
-
-## ◼ GITHUB SIGNAL
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=faizanbukhari22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF453A&icon_color=FFD60A&text_color=F0F6FC&border_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanbukhari22&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF453A&text_color=F0F6FC&border_color=0D1117" />
-
-</div>
-
-<br>
 
 <div align="center">
 
