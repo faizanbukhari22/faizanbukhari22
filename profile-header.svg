@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 400" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&amp;family=Inter:wght@400;700;900&amp;display=swap');
+
+      /* Classic Bauhaus Theme - Light Mode (Default) */
+      :root {
+        --bg: #F4F4F5;
+        --card-bg: rgba(255, 255, 255, 0.88);
+        --card-border: #1C1C1E;
+        --line: #1C1C1E;
+        --red: #FF3B30;
+        --yellow: #FFCC00;
+        --blue: #007AFF;
+        --text-main: #1C1C1E;
+        --text-muted: #555555;
+        --grid-line: rgba(28, 28, 30, 0.12);
+        --pulse-color: #007AFF;
+      }
+
+      /* Classic Bauhaus Theme - Dark Mode (Automatic) */
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #0D1117;
+          --card-bg: rgba(22, 27, 34, 0.88);
+          --card-border: #30363D;
+          --line: #F0F6FC;
+          --red: #FF453A;
+          --yellow: #FFD60A;
+          --blue: #0A84FF;
+          --text-main: #F0F6FC;
+          --text-muted: #8B949E;
+          --grid-line: rgba(240, 246, 252, 0.12);
+          --pulse-color: #58A6FF;
+        }
+      }
+
+      /* Typography */
+      .title { font-family: 'Inter', sans-serif; font-size: 32px; font-weight: 900; fill: var(--text-main); letter-spacing: -1px; }
+      .subtitle { font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 800; fill: var(--red); text-transform: uppercase; letter-spacing: 2px; }
+      .code { font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 600; fill: var(--text-main); }
+      .coord { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: 600; fill: var(--text-muted); }
+      .mondrian-text { font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 900; fill: var(--text-main); letter-spacing: -0.5px; }
+      .mondrian-text-alt { font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 900; fill: #FFFFFF; letter-spacing: -0.5px; }
+      .meter-text { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 800; fill: var(--text-main); }
+      
+      /* Structural Lines */
+      .stroke-heavy { stroke: var(--card-border); stroke-width: 3.5; fill: none; }
+      .circuit-line { stroke: var(--blue); stroke-width: 2; fill: none; stroke-dasharray: 6 4; }
+      .data-stream { stroke: var(--yellow); stroke-width: 2.5; fill: none; stroke-dasharray: 10 15; }
+    </style>
+
+    <!-- Signal Wave Pattern -->
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="var(--blue)" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="var(--blue)" stop-opacity="1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Canvas Background -->
+  <rect width="100%" height="100%" fill="var(--bg)" />
+
+  <!-- === BAUHAUS ABSTRACT ART & AGENTIC AI DATA FLOW BACKGROUND === -->
+  <g>
+    <!-- Architectural Grid Lines -->
+    <line x1="0" y1="130" x2="850" y2="130" stroke="var(--grid-line)" stroke-width="2" />
+    <line x1="0" y1="270" x2="850" y2="270" stroke="var(--grid-line)" stroke-width="2" />
+    <line x1="480" y1="0" x2="480" y2="400" stroke="var(--grid-line)" stroke-width="2" />
+
+    <!-- Bauhaus Primary Geometric Shapes -->
+    <!-- 1. Bauhaus Red Primary Sun/Node Circle -->
+    <circle cx="720" cy="110" r="85" fill="var(--red)" opacity="0.9">
+      <animateTransform attributeName="transform" type="scale" values="1; 1.04; 1" dur="6s" repeatCount="indefinite" transform-origin="720 110" />
+    </circle>
+
+    <!-- Neural Ring around Sun -->
+    <circle cx="720" cy="110" r="105" fill="none" stroke="var(--red)" stroke-width="2" stroke-dasharray="8 6" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" values="0 720 110; 360 720 110" dur="20s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- 2. Bauhaus Yellow Block -->
+    <rect x="620" y="240" width="190" height="130" fill="var(--yellow)" opacity="0.85" />
+
+    <!-- 3. Bauhaus Blue Square Block -->
+    <rect x="490" y="30" width="80" height="80" fill="var(--blue)" opacity="0.9" />
+
+    <!-- Hardware Signal Wave (Oscilloscope / CAN Bus signal) -->
+    <path d="M 0 340 Q 120 300 240 340 T 480 340 T 720 340 T 850 340" fill="none" stroke="url(#blueGrad)" stroke-width="3">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="240 0" dur="4s" repeatCount="indefinite" />
+    </path>
+
+    <!-- AI Agentic Neural Circuit Traces (Animated Data Flow) -->
+    <path d="M 480 70 L 530 70 L 580 120 L 720 120" class="circuit-line" />
+    <path d="M 530 70 L 530 200 L 620 200 L 620 280" class="data-stream">
+      <animate attributeName="stroke-dashoffset" values="50; 0" dur="3s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Neural Network Nodes -->
+    <circle cx="530" cy="70" r="5" fill="var(--blue)" />
+    <circle cx="580" cy="120" r="6" fill="var(--red)" />
+    <circle cx="620" cy="200" r="5" fill="var(--yellow)" />
+    <circle cx="720" cy="120" r="7" fill="var(--line)">
+      <animate attributeName="r" values="7;10;7" dur="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Rotating Geometric Cross Gear (Top Right) -->
+  <g transform="translate(800, 45)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0; 360" dur="15s" repeatCount="indefinite" />
+      <line x1="-12" y1="0" x2="12" y2="0" stroke="var(--line)" stroke-width="3.5" />
+      <line x1="0" y1="-12" x2="0" y2="12" stroke="var(--line)" stroke-width="3.5" />
+      <circle cx="0" cy="0" r="3" fill="var(--yellow)" />
+    </g>
+  </g>
+
+  <!-- === SECTION 1: MAIN GLASSMORPHISM CARD === -->
+  <!-- Shadow offset -->
+  <rect x="48" y="48" width="415" height="320" fill="var(--card-border)" opacity="0.8" />
+  
+  <!-- Main Card Body -->
+  <rect x="40" y="40" width="415" height="320" fill="var(--card-bg)" class="stroke-heavy" rx="4" />
+  
+  <!-- Content -->
+  <text x="65" y="72" class="coord">LOC: 52° 31' 12" N, 13° 24' 18" E (BERLIN)</text>
+  <text x="65" y="120" class="title">FAIZAN BUKHARI</text>
+  <text x="65" y="145" class="subtitle">AGENTIC AI ENGINEER • SDET</text>
+
+  <!-- Structural Divider Line -->
+  <line x1="40" y1="170" x2="455" y2="170" stroke="var(--card-border)" stroke-width="3.5" />
+
+  <!-- Animated Terminal Typing Block -->
+  <g transform="translate(65" y="205)">
+    <text class="code" x="0" y="0">&gt; TEST_AUTOMATION.init();</text>
+    <text class="code" x="0" y="24">&gt; AGENTIC_ORCHESTRATOR.run();_</text>
+    <!-- Typing effect mask -->
+    <rect x="0" y="10" width="310" height="22" fill="var(--card-bg)">
+      <animate attributeName="x" from="0" to="310" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="width" from="310" to="0" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Geometric Skill Meters (Languages) -->
+  <g transform="translate(65, 290)">
+    <!-- English (Full) -->
+    <text x="0" y="10" class="meter-text">ENG</text>
+    <rect x="40" y="0" width="110" height="12" fill="var(--line)" />
+    
+    <!-- German (A2 Target B2) -->
+    <text x="175" y="10" class="meter-text">DEU</text>
+    <rect x="215" y="0" width="110" height="12" fill="none" stroke="var(--card-border)" stroke-width="2" />
+    <rect x="215" y="0" width="35" height="12" fill="var(--red)" />
+  </g>
+
+
+  <!-- === SECTION 2: MONDRIAN TECH GRID === -->
+  <!-- Shadow offset -->
+  <rect x="488" y="48" width="322" height="320" fill="var(--card-border)" opacity="0.8" />
+  
+  <g>
+    <!-- Box 1: Python -->
+    <rect x="480" y="40" width="180" height="180" fill="var(--card-bg)" class="stroke-heavy" rx="2" />
+    <text x="570" y="138" text-anchor="middle" class="mondrian-text">PYTHON</text>
+
+    <!-- Box 2: FastMCP (Accent Color Fill) -->
+    <rect x="660" y="40" width="150" height="180" fill="var(--blue)" class="stroke-heavy" rx="2" />
+    <text x="735" y="138" text-anchor="middle" class="mondrian-text-alt">FASTMCP</text>
+
+    <!-- Box 3: Vector CANoe -->
+    <rect x="480" y="220" width="150" height="140" fill="var(--card-bg)" class="stroke-heavy" rx="2" />
+    <text x="555" y="295" text-anchor="middle" class="mondrian-text">CANOE</text>
+
+    <!-- Box 4: Gemini API (Red Accent Highlight Block) -->
+    <rect x="630" y="220" width="180" height="140" fill="var(--card-bg)" class="stroke-heavy" rx="2" />
+    <text x="720" y="295" text-anchor="middle" class="mondrian-text">GEMINI API</text>
+  </g>
+</svg>
