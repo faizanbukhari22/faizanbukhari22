@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 139,886 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 12,197 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewri… |
-| 3 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 10,226 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| 4 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 6,321 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| 5 | [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3,723 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git… |
-| 6 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,241 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standar… |
-| 7 | [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 3,090 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injecto… |
-| 8 | [cordiverse/paper](https://github.com/cordiverse/paper) | 1,978 | - | A Programming Paradigm for Spatiotemporal Composability |
-| 9 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | 1,736 | C | Unlocking _everything_ on the CPU with DRAM scrambling |
-| 10 | [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | 1,735 | TypeScript | Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript p… |
+| 1 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 3,977 | - | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic I… |
+| 2 | [MengTo/threeui](https://github.com/MengTo/threeui) | 3,110 | HTML | Open-source ThreeUI Community catalog with live interactive components and comp… |
+| 3 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 1,607 | Python | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent n… |
+| 4 | [vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel) | 1,239 | JavaScript | Install Command：npm install |
+| 5 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,005 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg th… |
+| 6 | [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 762 | JavaScript | DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚… |
+| 7 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | 760 | Python | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite… |
+| 8 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 718 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a… |
+| 9 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | 707 | Swift | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulatio… |
+| 10 | [amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel) | 620 | Python |  |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (139,886★) — DeepSeek Harness: Everything is a Plugin.
-- **[Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** (5,255★) — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe ca…
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,241★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** (3,192★) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct…
-- **[Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)** (2,497★) — Dotted thought-orb loading indicators for AI & agent UIs, 9 tuned types, two sizes, auto dark/light
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** (2,161★) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime…
-- **[makecindy/cindy](https://github.com/makecindy/cindy)** (2,099★) — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
-- **[QoderAI/better-harness](https://github.com/QoderAI/better-harness)** (1,870★) — Better Harness turns project and session evidence into loop-level insights, prioritized improvement…
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (189,350★) — DeepSeek Harness: Everything is a Plugin.
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** (6,725★) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ta…
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,736★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
+- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** (3,372★) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct…
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** (2,547★) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ev…
+- **[ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)** (2,407★) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeCha…
+- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** (2,223★) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime…
+- **[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)** (1,963★) — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run command…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-08-17 (UTC) · automated weekly_
+_Last refreshed 2026-08-24 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
