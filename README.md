@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 3,977 | - | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic I… |
-| 2 | [MengTo/threeui](https://github.com/MengTo/threeui) | 3,110 | HTML | Open-source ThreeUI Community catalog with live interactive components and comp… |
-| 3 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | 1,607 | Python | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent n… |
-| 4 | [vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel) | 1,239 | JavaScript | Install Command：npm install |
-| 5 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,005 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg th… |
-| 6 | [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) | 762 | JavaScript | DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚… |
-| 7 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | 760 | Python | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite… |
-| 8 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 718 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a… |
-| 9 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | 707 | Swift | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulatio… |
-| 10 | [amirh00sain/SpiderPanel](https://github.com/amirh00sain/SpiderPanel) | 620 | Python |  |
+| 1 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 4,816 | Python | Autonomous research system for measurable, computer-executable research. |
+| 2 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,178 | TeX |  |
+| 3 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,670 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping th… |
+| 4 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,228 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websi… |
+| 5 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,117 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own sett… |
+| 6 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,116 | - | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills C… |
+| 7 | [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 977 | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeCh… |
+| 8 | [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 819 | Python |  |
+| 9 | [jub0t/Concat](https://github.com/jub0t/Concat) | 813 | TypeScript | Free & Open-Source CapCut replacement. |
+| 10 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | 776 | Markdown | An agent organization for Claude Code, structured as a company — 15+ department… |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (189,350★) — DeepSeek Harness: Everything is a Plugin.
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** (6,725★) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ta…
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,736★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
-- **[microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)** (3,372★) — Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct…
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** (2,547★) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ev…
-- **[ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)** (2,407★) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeCha…
-- **[QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent)** (2,223★) — A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime…
-- **[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)** (1,963★) — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run command…
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (205,866★) — DeepSeek Harness: Everything is a Plugin.
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** (6,992★) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ta…
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,810★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** (3,578★) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ev…
+- **[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)** (3,081★) — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run command…
+- **[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)** (2,865★) — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep a…
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** (2,791★) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+- **[ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)** (2,740★) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeCha…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-08-24 (UTC) · automated weekly_
+_Last refreshed 2026-08-31 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
