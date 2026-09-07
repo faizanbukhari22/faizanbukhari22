@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 4,816 | Python | Autonomous research system for measurable, computer-executable research. |
-| 2 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,178 | TeX |  |
-| 3 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,670 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping th… |
-| 4 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,228 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websi… |
-| 5 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,117 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own sett… |
-| 6 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,116 | - | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills C… |
-| 7 | [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | 977 | Python | WeMM-Embedding is a family of universal multimodal embedding models by the WeCh… |
-| 8 | [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | 819 | Python |  |
-| 9 | [jub0t/Concat](https://github.com/jub0t/Concat) | 813 | TypeScript | Free & Open-Source CapCut replacement. |
-| 10 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | 776 | Markdown | An agent organization for Claude Code, structured as a company — 15+ department… |
+| 1 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 4,492 | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-cod… |
+| 2 | [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 2,325 | Python | Reference blueprint for building shopping and merchant agents with Claude. Exam… |
+| 3 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 1,701 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system la… |
+| 4 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 1,565 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, sear… |
+| 5 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 1,139 | Python | Free open-source project designed for turning youtube-viedos into viral short v… |
+| 6 | [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | 889 | Lean |  |
+| 7 | [yczz/oc-english](https://github.com/yczz/oc-english) | 845 | JavaScript | 养成类游戏英语学习 |
+| 8 | [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | 812 | - | Run DLSS 5 Neural Rendering on your AMD GPU. Magic! |
+| 9 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 795 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigra… |
+| 10 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 639 | TypeScript | Open-source AI brand visibility and competitor reports |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (205,866★) — DeepSeek Harness: Everything is a Plugin.
-- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** (6,992★) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ta…
-- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,810★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
-- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** (3,578★) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ev…
-- **[fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi)** (3,081★) — FuXi is a fast, self-contained AI coding agent that lives in your terminal — edit code, run command…
-- **[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)** (2,865★) — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep a…
-- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** (2,791★) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
-- **[ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)** (2,740★) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeCha…
+- **[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** (214,738★) — DeepSeek Harness: Everything is a Plugin.
+- **[yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)** (7,119★) — dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the ta…
+- **[CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot)** (4,398★) — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with ev…
+- **[xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)** (3,823★) — Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98…
+- **[wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router)** (3,814★) — Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.
+- **[Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy)** (3,139★) — Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep a…
+- **[ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)** (2,873★) — DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeCha…
+- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** (2,576★) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-08-31 (UTC) · automated weekly_
+_Last refreshed 2026-09-07 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
