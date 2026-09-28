@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 14,005 | Python | i. am. speed. |
-| 2 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 7,039 | Python |  |
-| 3 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 5,763 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: eve… |
-| 4 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | 4,855 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| 5 | [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 4,052 | Swift | The Photoshop alternative for Mac |
-| 6 | [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 2,799 | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated w… |
-| 7 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 2,465 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on… |
-| 8 | [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 2,244 | Python | Private source preview: native Jianying drafts, isolated editing/export, and st… |
-| 9 | [jarrodwatts/jev-trader](https://github.com/jarrodwatts/jev-trader) | 1,689 | TypeScript | One AI trade decision every Monad block. Jev on Kuru MON-USDC. |
-| 10 | [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | 1,687 | Python | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-en… |
+| 1 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,118 | Python |  |
+| 2 | [tobi/disktree](https://github.com/tobi/disktree) | 1,751 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GP… |
+| 3 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,562 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
+| 4 | [yetone/magpie](https://github.com/yetone/magpie) | 1,502 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from th… |
+| 5 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,355 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| 6 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,101 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disc… |
+| 7 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,030 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments… |
+| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,016 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 9 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | 910 | HTML | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
+| 10 | [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | 875 | JavaScript | Coastal town built with Opus 5.5 |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt)** (5,767★) — ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.
-- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** (3,872★) — Continual learning infra for self-improving agents
-- **[Nanako0129/sepia](https://github.com/Nanako0129/sepia)** (2,735★) — De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plu…
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** (1,909★) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a bla…
-- **[cbrock84/headcount](https://github.com/cbrock84/headcount)** (1,641★) — An agent organization structured as a company — 15+ departments, 125+ skills, each independently in…
-- **[adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem)** (1,320★) — UNIGIT public brand and ecosystem hub — AI should work for everyone.
-- **[ZJU-REAL/Easel](https://github.com/ZJU-REAL/Easel)** (1,275★) — An open-source AI agent for social media — discover trends, create content, publish everywhere, and…
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** (1,235★) — Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked a…
+- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** (6,865★) — Infrastructure for continually self‑improving agents
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** (2,120★) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a bla…
+- **[yetone/magpie](https://github.com/yetone/magpie)** (1,502★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)** (1,481★) — Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrie…
+- **[adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem)** (1,318★) — UNIGIT public brand and ecosystem hub — AI should work for everyone.
+- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** (1,251★) — Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked a…
+- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** (1,101★) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files…
+- **[awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use)** (1,046★) — Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, clic…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-09-21 (UTC) · automated weekly_
+_Last refreshed 2026-09-28 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
