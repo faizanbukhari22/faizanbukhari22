@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,118 | Python |  |
-| 2 | [tobi/disktree](https://github.com/tobi/disktree) | 1,751 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GP… |
-| 3 | [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,562 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
-| 4 | [yetone/magpie](https://github.com/yetone/magpie) | 1,502 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from th… |
-| 5 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,355 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
-| 6 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,101 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disc… |
-| 7 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | 1,030 | TypeScript | Take your agent-built product live: hosting, database, domain, email, payments… |
-| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | 1,016 | Go | Reference client daemon and verification worker for Kryvora Network nodes. |
-| 9 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | 910 | HTML | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
-| 10 | [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | 875 | JavaScript | Coastal town built with Opus 5.5 |
+| 1 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,547 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mo… |
+| 2 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,435 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
+| 3 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,610 | Python | Open-source dots for the web: an AI agent with its own browser, one that does n… |
+| 4 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,476 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanes… |
+| 5 | [storytold/photocraft](https://github.com/storytold/photocraft) | 1,463 | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| 6 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,413 | HTML |  |
+| 7 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,335 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-pag… |
+| 8 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,329 | C | Open source SDK to build Muse gadgets |
+| 9 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 1,284 | Python | A Claude Code plugin that helps you learn how to build while AI writes the code. |
+| 10 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,240 | TypeScript |  |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Human-Agent-Society/reef](https://github.com/Human-Agent-Society/reef)** (6,865★) — Infrastructure for continually self‑improving agents
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** (2,120★) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a bla…
-- **[yetone/magpie](https://github.com/yetone/magpie)** (1,502★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- **[tigerless-labs/agent-memory](https://github.com/tigerless-labs/agent-memory)** (1,481★) — Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrie…
-- **[adtexterry-lgtm/unigit-ecosystem](https://github.com/adtexterry-lgtm/unigit-ecosystem)** (1,318★) — UNIGIT public brand and ecosystem hub — AI should work for everyone.
-- **[2akouwu/reverify](https://github.com/2akouwu/reverify)** (1,251★) — Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked a…
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** (1,101★) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files…
-- **[awlevin/typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use)** (1,046★) — Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, clic…
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (5,918★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- **[yetone/magpie](https://github.com/yetone/magpie)** (5,031★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (3,593★) — A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and ke…
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (3,547★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
+- **[feder-cr/dots](https://github.com/feder-cr/dots)** (2,610★) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
+- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** (2,281★) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files…
+- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** (2,244★) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a bla…
+- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** (1,934★) — A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, pr…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-09-28 (UTC) · automated weekly_
+_Last refreshed 2026-10-05 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
