@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,547 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mo… |
-| 2 | [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,435 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
-| 3 | [feder-cr/dots](https://github.com/feder-cr/dots) | 2,610 | Python | Open-source dots for the web: an AI agent with its own browser, one that does n… |
-| 4 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,476 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanes… |
-| 5 | [storytold/photocraft](https://github.com/storytold/photocraft) | 1,463 | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
-| 6 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,413 | HTML |  |
-| 7 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,335 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-pag… |
-| 8 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,329 | C | Open source SDK to build Muse gadgets |
-| 9 | [nykooi1/vibe-wise](https://github.com/nykooi1/vibe-wise) | 1,284 | Python | A Claude Code plugin that helps you learn how to build while AI writes the code. |
-| 10 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,240 | TypeScript |  |
+| 1 | [openai/math](https://github.com/openai/math) | 14,301 | Lean |  |
+| 2 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 7,849 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| 3 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 4,920 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of re… |
+| 4 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,546 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| 5 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,499 | Go | AI 自主渗透测试系统 - 百度“agent+”攻防挑战赛冠军项目 |
+| 6 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | 3,408 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pu… |
+| 7 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 3,311 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| 8 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | 3,099 | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoC… |
+| 9 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 2,695 | Python | Open-source personal finance app with an AI financial advisor: track your net w… |
+| 10 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 2,677 | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore… |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (5,918★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- **[yetone/magpie](https://github.com/yetone/magpie)** (5,031★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (3,593★) — A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and ke…
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (3,547★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
-- **[feder-cr/dots](https://github.com/feder-cr/dots)** (2,610★) — Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.
-- **[dzhng/jevgrep](https://github.com/dzhng/jevgrep)** (2,281★) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files…
-- **[Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer)** (2,244★) — Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a bla…
-- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** (1,934★) — A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, pr…
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** (11,208★) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do…
+- **[yetone/magpie](https://github.com/yetone/magpie)** (10,173★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (7,342★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (6,898★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (4,917★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
+- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (4,538★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** (3,011★) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actua…
+- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** (2,825★) — A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, pr…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-10-05 (UTC) · automated weekly_
+_Last refreshed 2026-10-12 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
