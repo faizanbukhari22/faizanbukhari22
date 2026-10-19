@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [openai/math](https://github.com/openai/math) | 14,301 | Lean |  |
-| 2 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | 7,849 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| 3 | [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 4,920 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of re… |
-| 4 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,546 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 5 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,499 | Go | AI 自主渗透测试系统 - 百度“agent+”攻防挑战赛冠军项目 |
-| 6 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | 3,408 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pu… |
-| 7 | [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 3,311 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
-| 8 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | 3,099 | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoC… |
-| 9 | [LosaLosSantos/aurelio-finance](https://github.com/LosaLosSantos/aurelio-finance) | 2,695 | Python | Open-source personal finance app with an AI financial advisor: track your net w… |
-| 10 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 2,677 | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore… |
+| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 3,317 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| 2 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,268 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Clau… |
+| 3 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,370 | Go | Git designed for AI agents. |
+| 4 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,272 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
+| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,943 | C# | A free, open source C# framework for making games, or your own game engine. Dir… |
+| 6 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,770 | TypeScript | Turn your regular JavaScript code into a neural net. |
+| 7 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,499 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMe… |
+| 8 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,304 | C |  |
+| 9 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,231 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分… |
+| 10 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,136 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sour… |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** (11,208★) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do…
-- **[yetone/magpie](https://github.com/yetone/magpie)** (10,173★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (7,342★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (6,898★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (4,917★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
-- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (4,538★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** (3,011★) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actua…
-- **[kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill)** (2,825★) — A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, pr…
+- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** (26,651★) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do…
+- **[yetone/magpie](https://github.com/yetone/magpie)** (16,673★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (8,395★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (8,061★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (6,416★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (5,556★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
+- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (5,106★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** (3,811★) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actua…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-10-12 (UTC) · automated weekly_
+_Last refreshed 2026-10-19 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
