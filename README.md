@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 3,317 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| 2 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 3,268 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Clau… |
-| 3 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,370 | Go | Git designed for AI agents. |
-| 4 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | 2,272 | JavaScript | We're rebuilding and open-sourcing the world’s software from scratch. |
-| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,943 | C# | A free, open source C# framework for making games, or your own game engine. Dir… |
-| 6 | [chenglou/handwired](https://github.com/chenglou/handwired) | 1,770 | TypeScript | Turn your regular JavaScript code into a neural net. |
-| 7 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | 1,499 | C++ | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMe… |
-| 8 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,304 | C |  |
-| 9 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | 1,231 | TypeScript | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分… |
-| 10 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,136 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sour… |
+| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,769 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for… |
+| 2 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,473 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmw… |
+| 3 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,015 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explo… |
+| 4 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,001 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux… |
+| 5 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 1,854 | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news… |
+| 6 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,819 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSe… |
+| 7 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 1,554 | C |  |
+| 8 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 1,463 | Python | A php2shell exploit that requires no modifications to the official version, and… |
+| 9 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,450 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| 10 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | 1,407 | JavaScript |  |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)** (26,651★) — 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do…
-- **[yetone/magpie](https://github.com/yetone/magpie)** (16,673★) — Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (8,395★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (8,061★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (6,416★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (5,556★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
-- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (5,106★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-- **[QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)** (3,811★) — Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actua…
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (37,377★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (10,643★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
+- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (8,988★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
+- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (8,657★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
+- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (6,511★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
+- **[Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)** (5,613★) — Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, th…
+- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (5,491★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (4,718★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-10-19 (UTC) · automated weekly_
+_Last refreshed 2026-10-26 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
