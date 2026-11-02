@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,769 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for… |
-| 2 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,473 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmw… |
-| 3 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,015 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explo… |
-| 4 | [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,001 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux… |
-| 5 | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) | 1,854 | Python | 11 Claude skills for day trading: scan thousands of charts, track breaking news… |
-| 6 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,819 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSe… |
-| 7 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | 1,554 | C |  |
-| 8 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | 1,463 | Python | A php2shell exploit that requires no modifications to the official version, and… |
-| 9 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 1,450 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| 10 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | 1,407 | JavaScript |  |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 11,670 | TypeScript | Towards a More Autonomous Agent System |
+| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | 5,592 | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
+| 3 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5,428 | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 4,966 | Kotlin | An on-device AI agent for Android that operates apps and the web to get things… |
+| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3,662 | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Win… |
+| 6 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 3,245 | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skil… |
+| 7 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 2,611 | Rust | Craft Anything: understand how any software works, and craft your own. |
+| 8 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 2,256 | C++ | VERY experimental Nintendo Switch 2 emulator |
+| 9 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 2,076 | JavaScript | See how your app actually fits together. An interactive, plain-English map of y… |
+| 10 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 2,029 | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key… |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (37,377★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (10,643★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
-- **[rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)** (8,988★) — Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game…
-- **[KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT)** (8,657★) — 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-- **[Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)** (6,511★) — A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Cl…
-- **[Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)** (5,613★) — Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, th…
-- **[shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders)** (5,491★) — WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (4,718★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (49,884★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (13,065★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (5,718★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (4,474★) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry a…
+- **[microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** (4,367★) — Experience-Driven Black-Box Cost Control for Coding Agents
+- **[openfilm/openfilm](https://github.com/openfilm/openfilm)** (4,228★) — The open source AI video agent: turns any coding agent into a video agent, with an editor to change…
+- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** (3,495★) — Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+- **[SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)** (2,915★) — An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-t…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-10-26 (UTC) · automated weekly_
+_Last refreshed 2026-11-02 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
