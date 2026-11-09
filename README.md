@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | 11,670 | TypeScript | Towards a More Autonomous Agent System |
-| 2 | [heydamir/unslop](https://github.com/heydamir/unslop) | 5,592 | JavaScript | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
-| 3 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | 5,428 | TypeScript | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| 4 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | 4,966 | Kotlin | An on-device AI agent for Android that operates apps and the web to get things… |
-| 5 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | 3,662 | C | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Win… |
-| 6 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | 3,245 | JavaScript | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skil… |
-| 7 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | 2,611 | Rust | Craft Anything: understand how any software works, and craft your own. |
-| 8 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | 2,256 | C++ | VERY experimental Nintendo Switch 2 emulator |
-| 9 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | 2,076 | JavaScript | See how your app actually fits together. An interactive, plain-English map of y… |
-| 10 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | 2,029 | Go | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key… |
+| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,142 | TypeScript | YellowFruit third-party client |
+| 2 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,251 | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| 3 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,040 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch… |
+| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,474 | Swift | Entire MacOS running in your terminal. |
+| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 1,962 | C |  |
+| 6 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,906 | JavaScript |  |
+| 7 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,825 | Python | Films made with code. Short films, long YouTube videos, ads, explainers and mus… |
+| 8 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,569 | HTML | 3D modeling in Python, built for LLMs. |
+| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,470 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten… |
+| 10 | [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) | 1,415 | HTML | 《搞机工具箱》Web移植版 |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (49,884★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- **[tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)** (13,065★) — SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and auto…
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (5,718★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (4,474★) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry a…
-- **[microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** (4,367★) — Experience-Driven Black-Box Cost Control for Coding Agents
-- **[openfilm/openfilm](https://github.com/openfilm/openfilm)** (4,228★) — The open source AI video agent: turns any coding agent into a video agent, with an editor to change…
-- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** (3,495★) — Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-- **[SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)** (2,915★) — An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-t…
+- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (55,198★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (6,311★) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry a…
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (6,169★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- **[microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** (5,444★) — Experience-Driven Black-Box Cost Control for Coding Agents
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** (5,211★) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切…
+- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** (4,331★) — Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (4,251★) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+- **[qybaihe/bla](https://github.com/qybaihe/bla)** (4,168★) — 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bu…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-11-02 (UTC) · automated weekly_
+_Last refreshed 2026-11-09 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
