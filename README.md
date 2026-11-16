@@ -159,33 +159,33 @@ AI powered software engineer building agentic systems (LangChain, LangGraph, MCP
 <!-- TRENDING:START -->
 | # | Repository | Stars | Language | Description |
 |---|---|---|---|---|
-| 1 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | 5,142 | TypeScript | YellowFruit third-party client |
-| 2 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | 4,251 | TypeScript | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 3 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | 4,040 | C++ | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch… |
-| 4 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | 2,474 | Swift | Entire MacOS running in your terminal. |
-| 5 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | 1,962 | C |  |
-| 6 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | 1,906 | JavaScript |  |
-| 7 | [sarpstar/cinecode](https://github.com/sarpstar/cinecode) | 1,825 | Python | Films made with code. Short films, long YouTube videos, ads, explainers and mus… |
-| 8 | [Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d) | 1,569 | HTML | 3D modeling in Python, built for LLMs. |
-| 9 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | 1,470 | C# | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten… |
-| 10 | [CzJam/gjgjxweb](https://github.com/CzJam/gjgjxweb) | 1,415 | HTML | 《搞机工具箱》Web移植版 |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | 3,880 | TypeScript | Chat Demo |
+| 2 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | 2,385 | C++ | Apex Neural Rendering (ANR) by Apex Compute |
+| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | 2,179 | Swift | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） - Bootloop-safe iOS /… |
+| 4 | [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) | 1,932 | - | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent… |
+| 5 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | 1,781 | TypeScript | Private AI meeting notes that stay on your computer. A free, open-source altern… |
+| 6 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | 1,644 | Python | Humanoid whole-body motion tracking with one differentiable world model. |
+| 7 | [Noniv/abyssal-garden](https://github.com/Noniv/abyssal-garden) | 1,427 | JavaScript | A dreamy underwater world you can swim through in your browser: swaying kelp fo… |
+| 8 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | 1,354 | Python | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 9 | [Eynnzerr/TelemetryCleaner](https://github.com/Eynnzerr/TelemetryCleaner) | 1,253 | Kotlin | 基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块 |
+| 10 | [ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar) | 1,033 | TypeScript | 白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送 |
 <!-- TRENDING:END -->
 
 ## ⚡ RADAR — AI TOOLS &amp; CLAUDE SKILLS WORTH EXPLORING
 
 <!-- NEWS:START -->
-- **[Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)** (55,198★) — Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
-- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (6,311★) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry a…
-- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (6,169★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
-- **[microsoft/TokenEconomizer](https://github.com/microsoft/TokenEconomizer)** (5,444★) — Experience-Driven Black-Box Cost Control for Coding Agents
-- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** (5,211★) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切…
-- **[Leonxlnx/earshot](https://github.com/Leonxlnx/earshot)** (4,331★) — Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (4,251★) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
-- **[qybaihe/bla](https://github.com/qybaihe/bla)** (4,168★) — 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bu…
+- **[JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)** (9,524★) — Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Brea…
+- **[Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill)** (8,096★) — 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry a…
+- **[simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)** (6,440★) — A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.
+- **[qybaihe/bla](https://github.com/qybaihe/bla)** (5,878★) — 🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS…
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (5,649★) — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+- **[vercel-labs/ui](https://github.com/vercel-labs/ui)** (5,163★) — A library of behaviors for agents to build the next generation of user interfaces.
+- **[haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan)** (4,600★) — See how your app actually fits together. An interactive, plain-English map of your codebase, drawn…
+- **[expo/exact](https://github.com/expo/exact)** (4,416★) — Write an app once. It runs natively on the web, macOS, iOS, and Linux, and an AI agent can build it…
 <!-- NEWS:END -->
 
 <!-- UPDATED:START -->
-_Last refreshed 2026-11-09 (UTC) · automated weekly_
+_Last refreshed 2026-11-16 (UTC) · automated weekly_
 <!-- UPDATED:END -->
 
 <div align="center">
